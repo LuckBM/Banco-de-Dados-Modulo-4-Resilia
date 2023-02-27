@@ -7,3 +7,5 @@
 - **BR Modelo Online.**
 
 ## Modelo conceitual:
+
+![WhatsApp Image 2023-02-27 at 12 33 04](https://user-images.githubusercontent.com/116355056/221612128-e80a84f7-e143-45ad-bc15-c66a3b32def0.jpeg)
