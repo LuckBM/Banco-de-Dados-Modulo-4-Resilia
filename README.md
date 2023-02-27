@@ -9,14 +9,14 @@
 
 ## Qestões:
 
-- **1 - Existem outras entidades além dessas três?.**
-- Sim, é essas entidades derivam-se para cada banco de dados, dependendo do escopo e ideia do projeto.
+- **1 - Existem outras entidades além dessas três?**
+- Sim, e essas entidades derivam-se para cada banco de dados, dependendo do escopo e ideia do projeto.
 
-- **3 - Quais são os principais campos e tipos?.**
+- **3 - Quais são os principais campos e tipos?**
 - Os campos e tipos seguem abaixo no Módelo Conceitual.
 
-- **3 - Como essas entidades estão relacionadas?.**
-- Como essas entidades se relacionam segue abaixo no Modelo Conceitual.
+- **3 - Como essas entidades estão relacionadas?**
+- Como essas entidades se relacionam segue abaixo no Módelo Conceitual.
 
 ## Módelo Conceitual:
 
