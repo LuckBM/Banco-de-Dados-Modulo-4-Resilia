@@ -7,7 +7,7 @@
 - **MySQL.**
 - **BR Modelo Online.**
 
-## Qestões:
+## Questões:
 
 - **1 - Existem outras entidades além dessas três?**
 - Sim, e essas entidades derivam-se para cada banco de dados, dependendo do escopo e ideia do projeto.
