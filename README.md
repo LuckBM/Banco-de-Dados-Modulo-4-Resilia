@@ -21,3 +21,8 @@
 ## Módelo Conceitual:
 
 ![Modelo](https://user-images.githubusercontent.com/116355056/221614504-54b4ea54-1b20-4ad6-a9e0-305958e3ee87.jpeg)
+
+
+## Módelo Lógico:
+
+![modelo 1](https://user-images.githubusercontent.com/116355056/222743797-36ab1fec-d508-41ac-a82e-497564a6f229.png)
