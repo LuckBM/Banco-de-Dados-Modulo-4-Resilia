@@ -18,11 +18,11 @@
 - **3 - Como essas entidades estão relacionadas?**
 - Como essas entidades se relacionam segue abaixo no Módelo Conceitual e Lógico.
 
-## Módelo Conceitual:
+## Módelo Conceitual (BR Modelo Online):
 
 ![Modelo](https://user-images.githubusercontent.com/116355056/221614504-54b4ea54-1b20-4ad6-a9e0-305958e3ee87.jpeg)
 
 
-## Módelo Lógico:
+## Modelo Lógico (MySQL):
 
 ![modelo 1](https://user-images.githubusercontent.com/116355056/222743797-36ab1fec-d508-41ac-a82e-497564a6f229.png)
