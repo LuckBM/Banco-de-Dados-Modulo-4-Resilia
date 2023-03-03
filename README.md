@@ -13,10 +13,10 @@
 - Sim, e essas entidades derivam-se para cada banco de dados, dependendo do escopo e ideia do projeto.
 
 - **3 - Quais são os principais campos e tipos?**
-- Os campos e tipos seguem abaixo no Módelo Conceitual.
+- Os campos e tipos seguem abaixo no Módelo Conceitual e Lógico.
 
 - **3 - Como essas entidades estão relacionadas?**
-- Como essas entidades se relacionam segue abaixo no Módelo Conceitual.
+- Como essas entidades se relacionam segue abaixo no Módelo Conceitual e Lógico.
 
 ## Módelo Conceitual:
 
